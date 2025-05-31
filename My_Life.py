@@ -8,9 +8,9 @@ def main():
     
     # Process input
     if user_input == "ssami":
-        response = '❤️ I Love you my wife and my life ❤️'
+        response = '❤️ I Love you my wife, my life and my love  ❤️'
     elif user_input == "sshah":
-        response = "💖 Your Love husbend and your life 💖"
+        response = "💖 Your Love husbend, your life and your love💖"
     else:
         response = "😊 Thank you for using 😊"
     
